@@ -15,6 +15,6 @@
 
 
 By 
-<br>D Harshil Kumar Reddy<\br>
-22011101026
-BTech AI/DS - A
+<br>D Harshil Kumar Reddy
+<br>22011101026
+<br>BTech AI/DS - A
