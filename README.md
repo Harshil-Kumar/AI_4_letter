@@ -12,3 +12,9 @@
    6. Common substrings are appended to the 'x' list, and non-common segments are appended to the 'y' list.
    7. The code joins the common substrings in the 'x' list and adds them to the first and last prompts to create the final result.
    8. The final result is printed.
+
+
+By 
+D Harshil Kumar Reddy
+22011101026
+BTech AI/DS - A
